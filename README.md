@@ -4,6 +4,14 @@ This project explores the use of a pretrained ResNet34 model to classify differe
 
 # Dataset:
 
+The dataset was obtained from Kaggle:
+
+- Dataset title: Augmented Alzheimer MRI Dataset
+
+- Provided by uraninjo on Kaggle
+
+- Used under terms of Kaggle Dataset License
+  
 The dataset comprises both augmented and original MRI brain scans, categorized into four diagnostic groups: **Non-Demented, Very Mildly Demented, Mildly Demented,** and **Moderately Demented.** The data is organized in the ImageFolder format. I used PyTorch to train and evaluate the models on the MRI dataset.
 
 # Experiments:
